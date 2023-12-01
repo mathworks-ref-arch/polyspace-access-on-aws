@@ -28,6 +28,7 @@ To view instructions for deploying the Polyspace Access reference architecture, 
 | ------- |
 | [R2022b](releases/R2022b/README.md) |
 | [R2023a](releases/R2023a/README.md) |
+| [R2023b](releases/R2023b/README.md) |
 
 # Update Notes
 The template does not currently support automatic upgrades. It is possible to manually upgrade to a newer release and retain all user data, settings, and SSL certificates.
