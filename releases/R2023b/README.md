@@ -99,7 +99,7 @@ In a typical configuration, an admin user performs some of the configuration ste
 |Role  | Steps |
 |----- |---    |
 | Cloud admin user| 1. Click the **BucketURL** on the **Outputs** tab of the CloudFormation **Stack details** page.<br/>2. On the S3 bucket page, select the certificate file **self-cert.pem** and click **Download**.<br/>3. Copy the downloaded certificate to the local machine. Use a utility such as `scp` to transfer the file securely.|
-| End user|1. Use the certificate file that the admin copied to your machine to [generate a client keystore](https://www.mathworks.com/help/releases/R2023b/bugfinder/install/register-polyspace-desktop-user-interface.html#mw_b703a5a4-a34c-4ebc-82f9-f66c54d120d2).<br/>2. Open the Polyspace desktop interface and follow these [instructions](https://www.mathworks.com/help/releases/R2023b/bugfinder/install/register-polyspace-desktop-user-interface.html) to complete the configuration.|
+| End user|1. Use the certificate file that the admin copied to your machine to [generate a client keystore](https://www.mathworks.com/help/releases/R2023b/polyspace_access/install/register-polyspace-desktop-user-interface.html#mw_b703a5a4-a34c-4ebc-82f9-f66c54d120d2).<br/>2. Open the Polyspace desktop interface and follow these [instructions](https://www.mathworks.com/help/releases/R2023b/polyspace_access/install/register-polyspace-desktop-user-interface.html) to complete the configuration.|
 
 # Additional Information
 
